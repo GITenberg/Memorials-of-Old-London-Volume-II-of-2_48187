@@ -1,11 +1,17 @@
 _repo: Memorials-of-Old-London-Volume-II-of-2_48187
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Ditchfield, P. H. Peter Hampson)
       gutenberg_agent_id: '44667'
       url: http://www.gutenberg.org/2009/agents/44667
+covers:
+- cover_type: archival
+  image_path: 48187-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48187#Memorials-of-Old-London-Volume-II-of-2
 gutenberg_issued: '2015-02-07'
 gutenberg_type: Text
 identifiers:
